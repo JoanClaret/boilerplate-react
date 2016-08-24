@@ -1,0 +1,13 @@
+
+$button-color: #2ebaff;
+
+button {
+  background-color: $button-color;
+  border: 0;
+  border-radius: 2px;
+  color: #fff;
+  display: inline-block;
+  outline: none;
+  padding: 10px 20px;
+  width: 140px;
+}
