@@ -8,12 +8,12 @@
 - Open http://localhost:3333/
 
 
-### Dependencies:
+## Dependencies:
 
 - react
 - react-dom
 
-### Dev dependencies:
+## Dev dependencies:
 
 - autoprefixer-loader
 - babel
