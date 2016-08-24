@@ -1,5 +1,7 @@
 # Boilerplate with React, Webpack & SASS.
+![](./logo.png)
 
+## Getting started:
 - Clone the repo
 - Run `npm i`
 - Run `npm start`
