@@ -13,6 +13,7 @@
 
 ### Dev dependencies:
 
+- autoprefixer-loader
 - babel
 - babel-core
 - babel-loader
